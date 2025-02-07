@@ -1,2 +1,4 @@
 ######### Testing Git #########
-show run router bgp 
+show run router bgp
+show run router isis
+show ip interface brief
