@@ -1,0 +1,3 @@
+[submodule "iosxr-scripts/iosxr-scripts/iosxr-ops"]
+	path = iosxr-scripts/iosxr-scripts/iosxr-ops
+	url = https://github.com/CiscoDevNet/iosxr-ops.git
